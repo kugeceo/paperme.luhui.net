@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="512" height="512" rx="102" fill="#4F46E5" opacity="0.1"/>
+  
+  <!-- 纸张主体 -->
+  <path d="M128 90C128 82.8203 133.82 77 141 77H307L384 154V422C384 429.18 378.18 435 371 435H141C133.82 435 128 429.18 128 422V90Z" fill="white" stroke="#4F46E5" stroke-width="16"/>
+  
+  <!-- 纸张折角 -->
+  <path d="M307 77L384 154H320C312.82 154 307 148.18 307 141V77Z" fill="#E5E7EB" stroke="#4F46E5" stroke-width="8"/>
+  
+  <!-- 纸张横线 -->
+  <line x1="179" y1="230" x2="333" y2="230" stroke="#4F46E5" stroke-width="8" stroke-linecap="round"/>
+  <line x1="179" y1="281" x2="333" y2="281" stroke="#4F46E5" stroke-width="8" stroke-linecap="round"/>
+  <line x1="179" y1="332" x2="333" y2="332" stroke="#4F46E5" stroke-width="8" stroke-linecap="round"/>
+  <line x1="179" y1="383" x2="282" y2="383" stroke="#4F46E5" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- 笔 -->
+  <path d="M358 332L320 370L307 345L345 307L358 332Z" fill="#FFC107" stroke="#4F46E5" stroke-width="6"/>
+  <path d="M371 319L358 332L345 307L358 294L371 319Z" fill="#FFA000" stroke="#4F46E5" stroke-width="6"/>
+</svg> 
